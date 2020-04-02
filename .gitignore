@@ -1,4 +1,6 @@
 # Depencencias
 node_modules/
-
 package-lock.json
+
+# Variables de Etorno
+variables.env
